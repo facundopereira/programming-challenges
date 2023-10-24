@@ -1,8 +1,7 @@
 # programming-challenges
- > En este repositorio ire subiendo desafios que vaya aprendiendo, la idea de este repositorio es aprender algoritmos basicos que se pueden usar en cualquier proyecto, para aprender y llevar un registro de todo lo programado y algoritmos. 
-
- >A medida que vaya practicando ire subiendo otros repositorios donde podre desempeñar las habilidades adquiridas.
+ > En este repositorio ire subiendo desafios de Programacion en el lenguaje JavaScript comunmente usados o que enseñan cierta logica y algoritmos basicos. 
 
 ## Challenges: 
 
-+ #1[FizzBuzz](/Challenges/FizzBuzz.js)
++ #1: [FizzBuzz](/Challenges/FizzBuzz.js)
++ #2: [Multiplos de 3 y 5](/Challenges/Multiplos-3-y-5.js)
