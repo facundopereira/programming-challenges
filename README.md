@@ -5,3 +5,4 @@
 
 + #1: [FizzBuzz](/Challenges/FizzBuzz.js)
 + #2: [Multiplos de 3 y 5](/Challenges/Multiplos-3-y-5.js)
++ #3: [Verificador de Palindromos](/Challenges/Verificador-de-Palindromos.js)
