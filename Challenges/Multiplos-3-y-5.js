@@ -1,3 +1,5 @@
+/*INTRODUCCIÓN*/
+
 //Desafio Multiplos de 3 y 5,  en este desafio lo que hace es sumar todos los valores que son multiplos de 3 y 5 que sean menores que 1000,  los suma todos en una variable y una vez recorrido todo el bucle se imprime el valor que es igual a 233168
 
 let suma = 0;

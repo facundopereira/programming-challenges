@@ -1,3 +1,5 @@
+/*INTRODUCCIÓN*/
+
 //Desafio FizzBuzz, en este desafio lo que hace es imprimir FizzBuzz en los multiplos de 3 y 5, Fizz en los multiplos de 3 y Buzz en los multiplos de 5 y si no son multiplos de ninguno de esas 3 coindiciones imprime el valor del numero
 
 for(i=1; i<= 100; i++){
